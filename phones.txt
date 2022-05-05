@@ -2,3 +2,7 @@
 2. apple 12
 3. xiaomi P20
 4. Sony
+5. samsung
+6. POCO
+7. Huawei
+
