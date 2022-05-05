@@ -1,7 +1,8 @@
-:1. apple 11
+1. apple 11
 2. apple 12
 3. xiaomi P20
-4. samsung
-5. POCO
-6. Huawei
+4. Sony
+5. samsung
+6. POCO
+7. Huawei
 
